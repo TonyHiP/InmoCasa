@@ -1,4 +1,4 @@
 #credenciales de las base de datos
-config/database.php
 .agents
 package-lock.json
+config/database.example.php
